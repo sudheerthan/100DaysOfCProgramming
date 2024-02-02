@@ -53,10 +53,7 @@ If you're new here, follow these steps to get started:
 ### Day 1: Hello World program.
 - Write a simple C program that prints "Hello, World!" to the console.
 
-### Day 2: Sum of two numbers.
-- Create a program that takes two numbers as input and outputs their sum.
-
-### Day 3: Check if a number is even or odd.
+### Day 2: Check if a number is even or odd.
 - Write a program to determine whether a given number is even or odd.
 
 ... (continue with Days 4-10)

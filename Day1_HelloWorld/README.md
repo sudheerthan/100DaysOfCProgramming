@@ -1,4 +1,6 @@
-# Hello, World! in C
+# 100DaysOfCProgramming - Day 1
+
+## Program : Hello, World! 
 
 Welcome to my C programming repository! This simple project includes the classic "Hello, World!" program written in C.
 
@@ -10,6 +12,8 @@ Make sure you have a C compiler installed on your system. You can compile and ru
 2. Navigate to the directory containing the source code file (`helloworld.c`).
 3. Compile the program using a C compiler (`gcc helloworld.c -o helloworld`).
 4. Run the compiled executable (`./helloworld`).
+
+### Output
 
 You should see the output:
 

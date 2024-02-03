@@ -56,6 +56,11 @@ If you're new here, follow these steps to get started:
 ### Day 2: Check if a number is even or odd.
 - Write a program to determine whether a given number is even or odd.
 
+### Day 3: find length of a string.
+- Write a program to find the length of a given string.
+
+
+find length of a string
 ... (continue with Days 4-10)
 
 ## Arrays and Strings

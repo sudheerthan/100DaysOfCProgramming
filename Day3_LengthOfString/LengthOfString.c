@@ -11,7 +11,7 @@ int main(){
 
 	int len = findLen(str);
 
-	if(len >= 49 && str[49] != '\n'){
+	if(len >= 48 && str[48] != '\n'){
 		printf("error: may have been string is truncated");
 	}
 	printf("the lenth of string = %d\n", len); // len-1 is to avoid '\0'

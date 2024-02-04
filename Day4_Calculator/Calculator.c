@@ -28,8 +28,12 @@ int main(){
 			printf("\n%d * %d =  %.02f\n",x,y,result);
 			break;
 		case 4 :
-			result =div(x,y);	
-			printf("\n%d / %d =  %.02f\n",x,y,result);	
+			if(y != 0){
+				result =div(x,y);	
+				printf("\n%d / %d =  %.02f\n",x,y,result);
+			}else {
+				printf("Divisible by zero allowed");
+			}
 			break;
 		default :
 			printf("\n error : invalid selection\n");

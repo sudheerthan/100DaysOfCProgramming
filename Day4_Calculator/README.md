@@ -1,7 +1,7 @@
 
 # 100DaysOfCProgramming - Day 4
 
-## Program: Calculator
+## Program: Simple Calculator
 
 ### Overview:
 This is a simple calculator program in C.

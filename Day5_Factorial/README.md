@@ -17,6 +17,7 @@ Make sure you have a C compiler installed on your system. You can compile and ru
 5. The program will prompt you to enter a numbers.
 6. The program will calulate the result.
 7. The result will be displayed on the screen.
+8. Two method are added. 
 
 ### Output
 

@@ -65,6 +65,9 @@ If you're new here, follow these steps to get started:
 ### Day 5: Factorial
 - Write a program to find the Factorial of a number.
 
+### Day 6: Reverse a String
+- Write a program to reverse a string.
+
 
 find length of a string
 ... (continue with Days 4-10)

@@ -68,9 +68,9 @@ If you're new here, follow these steps to get started:
 ### Day 6: Reverse a String
 - Write a program to reverse a string.
 
+### Day 6: Prime number or not
+- Write a program to find a number is prime number or not.
 
-find length of a string
-... (continue with Days 4-10)
 
 ## Arrays and Strings
 

@@ -68,8 +68,11 @@ If you're new here, follow these steps to get started:
 ### Day 6: Reverse a String
 - Write a program to reverse a string.
 
-### Day 6: Prime number or not
+### Day 7: Prime number or not
 - Write a program to find a number is prime number or not.
+
+### Day 8: Leap Year Checker
+- Write a program to check Leap Year.
 
 
 ## Arrays and Strings

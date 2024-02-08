@@ -74,6 +74,11 @@ If you're new here, follow these steps to get started:
 ### Day 8: Leap Year Checker
 - Write a program to check Leap Year.
 
+### Day 9: Palindrome Checker
+- Write a program to check if a given string is a palindrome or not.
+
+### Day 10: Fibonacci Sequence
+- Create a program to generate the Fibonacci sequence up to a certain number of terms.
 
 ## Arrays and Strings
 

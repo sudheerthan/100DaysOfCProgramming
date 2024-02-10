@@ -1,10 +1,9 @@
 #include <stdio.h>
+
 int main() {
 
-  int i, num;
-
-  int n1 = 0, n2 = 1;
-
+  int i, num;
+  int n1 = 0, n2 = 1;
   int next = n1 + n2;
 
   printf("Enter the number of sequence\n");

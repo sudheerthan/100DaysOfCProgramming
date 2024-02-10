@@ -14,8 +14,8 @@ Make sure you have a C compiler installed on your system. You can compile and ru
 2. Navigate to the directory containing the source code file (`Fibonacci.c`).
 3. Compile the program using a C compiler (`gcc -o Fibonacci Fibonacci.c`).
 4. Run the compiled executable (`./Fibonacci`).
-5. The program will prompt you to enter a year.
-6. The program will determine the year is leap year or not.
+5. The program will prompt you to enter the Fibonacci sequence number.
+6. The program will calculate the number upto entered number.
 7. The result will be displayed on the screen.
 
 ### Output

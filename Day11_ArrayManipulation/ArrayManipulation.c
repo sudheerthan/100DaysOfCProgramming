@@ -19,8 +19,17 @@ void insertElement(int arr[],int *size, int element, int position){
 }
 
 void deleteElement(int arr[], int *size, int position){
-    
+        if(*size >= MAX_SIZE ){
+        printf("array is full, deletion failed");
+        return 1;
+    }
+    if(position < 0 || position > MAX_SIZE){
+        printf("invalid postion , deletion failed");
+    }
+
 }
+
+
 
 int main(){
     int arr[MAX_SIZE];

@@ -13,6 +13,13 @@ void insertElement(int arr[],int *size, int element, int position){
     for(int i = *size;i > position; i--){
         arr[i] = arr[i-1]
     }
+    arr[position] = element ;
+    (*size)++;
+    printf("element %d inserted at postion %d \n", element,position);
+}
+
+void deleteElement(int arr[], int *size, int position){
+    
 }
 
 int main(){
